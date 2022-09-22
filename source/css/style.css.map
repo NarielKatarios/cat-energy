@@ -1,1 +1,1 @@
-{"version":3,"sources":["style.less","style.css"],"names":[],"mappings":"AACA;EAAO,iBAAA;ACCP","file":"style.css","sourcesContent":["// Начните писать стили здесь\nbody { background: green; }","body {\n  background: green;\n}\n"]}
+{"version":3,"sources":["style.less","style.css"],"names":[],"mappings":"AAQA;EAAO,gBAAA;ACNP","file":"style.css","sourcesContent":["// Global\n@import 'global/variables.less';\n@import 'global/global.less';\n@import 'global/fonts.less';\n\n// Blocks\n@import 'blocks/page.less';\n\nbody { background: blue; }\n","body {\n  background: blue;\n}\n"]}
